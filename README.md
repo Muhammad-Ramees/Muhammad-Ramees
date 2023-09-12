@@ -20,9 +20,6 @@ I'm a software engineer. Currently, I work at Brototype as a software developer.
 - Email: rms.palliyal@gmail.com
 - Instagram: [ramees.palliyal](https://www.instagram.com/ramees.palliyal/)
 
-## ⚡ Fun fact
-- I'm also a [Your hobby/interest], and I love to [Your hobby/interest activity].
-
 ---
 
 ### My Tech Stack
@@ -62,5 +59,5 @@ const muhammadRamees = {
     github: 'https://github.com/muhammad-ramees',
     linkedin: 'https://www.linkedin.com/in/muhammad-ramees/'
   },
-  funFact: 'I can solve a Rubik’s cube in under a minute!'
+  funFact: 'I can solve a Mirror cube in under a minute!(⊙_⊙;)'
 };
