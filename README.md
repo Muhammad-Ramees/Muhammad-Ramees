@@ -1,28 +1,34 @@
-# Hi there, I'm Muhammad Ramees! 👋
+# Hello, I'm Muhammad Ramees! 👋
 
-I'm a software engineer. Currently, I work at Brototype as a software developer. You can check out their website at [brototype.com](https://brototype.com). I have a passion for coding, learning new technologies, and creating amazing software solutions.
+I'm a dedicated software engineer based in Bengaluru, passionate about creating remarkable software solutions. Currently, I'm working as a software developer at [Brototype](https://brototype.com), where quality is our utmost priority.
 
-## 🔭 I’m currently working on
-- Developing new Pages for [Brototype](https://brototype.com)
-- Learning Flutter
-- Supporting Full Stack Development in [Brototype's](https://brototype.com) Telegrams Groups
+## What I'm Up To
 
-## 🌱 I’m currently learning
-- [React](https://reactjs.org/)
-- Data Structures and Algorithms
+- Collaborating with the Quality Assurance team to ensure impeccable quality standards.
+- Guiding and mentoring students on their learning journey.
+- Conducting enlightening sessions for new batches to enhance their skills.
+- Contributing to the creation of fresh and exciting content and features for our official website.
 
-## 💬 Ask me about
-- Full-stack development
-- React
-- Web development best practices
+## Exploring and Learning
 
-## 📫 How to reach me
-- Email: rms.palliyal@gmail.com
-- Instagram: [ramees.palliyal](https://www.instagram.com/ramees.palliyal/)
+- Embracing the power of [React](https://reactjs.org/) for crafting stunning front-end experiences.
+- Delving into the world of Data Structures and Algorithms.
+
+## Let's Talk Tech
+
+I love discussing:
+- Full-stack development and the art of building cohesive applications.
+- Mastering React and breathing life into web experiences.
+- Best practices for web development and making code shine.
+
+## How to Connect
+
+- 📧 Email: [rms.palliyal@gmail.com](mailto:rms.palliyal@gmail.com)
+- Instagram: [@ramees.palliyal](https://www.instagram.com/ramees.palliyal/)
 
 ---
 
-### My Tech Stack
+## My Tech Stack
 
 ```javascript
 const muhammadRamees = {
@@ -59,5 +65,5 @@ const muhammadRamees = {
     github: 'https://github.com/muhammad-ramees',
     linkedin: 'https://www.linkedin.com/in/muhammad-ramees/'
   },
-  funFact: 'I can solve a Mirror cube in under a minute!(⊙_⊙;)'
+  funFact: 'I can solve a Mirror cube in under a minute! (⊙_⊙;)'
 };
