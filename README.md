@@ -13,6 +13,15 @@ I'm a dedicated software engineer based in Bengaluru, passionate about creating 
 
 - Embracing the power of [React](https://reactjs.org/) for crafting stunning front-end experiences.
 - Delving into the world of Data Structures and Algorithms.
+  
+## My Tech Stack
+
+![React](https://img.shields.io/badge/React-Intermediate-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
+![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
+![HTML5](https://img.shields.io/badge/HTML5-Intermediate-orange)
+![CSS3](https://img.shields.io/badge/CSS3-Intermediate-orange)
 
 ## Let's Talk Tech
 
@@ -26,44 +35,8 @@ I love discussing:
 - 📧 Email: [rms.palliyal@gmail.com](mailto:rms.palliyal@gmail.com)
 - Instagram: [@ramees.palliyal](https://www.instagram.com/ramees.palliyal/)
 
----
+## My GitHub Stats
 
-## My Tech Stack
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-ramees&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ramees&layout=compact&theme=vision-friendly-dark)](https://github.com/muhammad-ramees/github-readme-stats)
 
-```javascript
-const muhammadRamees = {
-  name: 'Muhammad Ramees',
-  profession: 'Software Engineer',
-  location: 'Bengaluru',
-  company: 'Brototype',
-  website: 'https://brototype.com',
-  email: 'rms.palliyal@gmail.com',
-  skills: [
-    'React',
-    'Node.js',
-    'Express',
-    'MongoDb',
-    'HTML5',
-    'CSS3',
-    'JavaScript',
-    'Git',
-    'GitHub'
-  ],
-  tools: [
-    'VS Code',
-    'Android Studio',
-    'Linux',
-    'Mac',
-    'Windows'
-  ],
-  experience: {
-    currently: 'Software Developer at Brototype',
-    old: ['Web Developer at Kintal']
-  },
-  socialMedia: {
-    instagram: 'https://www.instagram.com/ramees.palliyal/',
-    github: 'https://github.com/muhammad-ramees',
-    linkedin: 'https://www.linkedin.com/in/muhammad-ramees/'
-  },
-  funFact: 'I can solve a Mirror cube in under a minute! (⊙_⊙;)'
-};
