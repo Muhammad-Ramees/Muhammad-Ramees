@@ -1,42 +1,32 @@
 # Hello, I'm Muhammad Ramees! 👋
 
-I'm a dedicated software engineer based in Bengaluru, passionate about creating remarkable software solutions. Currently, I'm working as a software developer at [Brototype](https://brototype.com), where quality is our utmost priority.
+I'm a dedicated tech enthusiast based in Bengaluru, on an exciting journey into entrepreneurship with my startup, [BOTSO](#). I'm passionate about crafting remarkable software solutions and exploring the ever-evolving tech landscape.
 
 ## What I'm Up To
 
-- Collaborating with the Quality Assurance team to ensure impeccable quality standards.
-- Guiding and mentoring students on their learning journey.
-- Conducting enlightening sessions for new batches to enhance their skills.
-- Contributing to the creation of fresh and exciting content and features for our official website.
+- Building the future with BOTSO, my entrepreneurial endeavor focused on smart, efficient technology solutions.
+- Exploring innovative approaches to enhance user experiences and streamline operations.
+- Collaborating with like-minded individuals to create impactful and forward-thinking projects.
 
-## Exploring and Learning
+## Learning and Exploring
 
-- Embracing the power of [React](https://reactjs.org/) for crafting stunning front-end experiences.
-- Delving into the world of Data Structures and Algorithms.
-  
-## My Tech Stack
+- Diving into the entrepreneurial world, seeking opportunities to innovate and create positive change.
+- Exploring the realms of user-centric design and the art of building seamless, technology-driven solutions.
 
-![React](https://img.shields.io/badge/React-Intermediate-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Intermediate-green)
-![MongoDB](https://img.shields.io/badge/MongoDB-Intermediate-green)
-![HTML5](https://img.shields.io/badge/HTML5-Intermediate-orange)
-![CSS3](https://img.shields.io/badge/CSS3-Intermediate-orange)
+## My Tech Interests
 
-## Let's Talk Tech
+![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-Enthusiast-success)
+![Innovation](https://img.shields.io/badge/Innovation-Driven-blue)
+![User Experience](https://img.shields.io/badge/User%20Experience-Advocate-orange)
+![Smart Technologies](https://img.shields.io/badge/Smart%20Technologies-Passionate-red)
 
-I love discussing:
-- Full-stack development and the art of building cohesive applications.
-- Mastering React and breathing life into web experiences.
-- Best practices for web development and making code shine.
-
-## How to Connect
+## Let's Connect
 
 - 📧 Email: [rms.palliyal@gmail.com](mailto:rms.palliyal@gmail.com)
-- Instagram: [@ramees.palliyal](https://www.instagram.com/ramees.palliyal/)
+- LinkedIn: [Muhammad Ramees](https://www.linkedin.com/in/muhammad-ramees/)
+- Twitter: [@ramees_palliyal](https://twitter.com/ramees_palliyal)
 
 ## My GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-ramees&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ramees&layout=compact&theme=vision-friendly-dark)](https://github.com/muhammad-ramees/github-readme-stats)
-
