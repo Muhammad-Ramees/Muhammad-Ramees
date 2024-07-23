@@ -1,10 +1,10 @@
 # Hello, I'm Muhammad Ramees! 👋
 
-I'm a dedicated tech enthusiast based in Bengaluru, on an exciting journey into entrepreneurship with my startup, [BOTSO](#). I'm passionate about crafting remarkable software solutions and exploring the ever-evolving tech landscape.
+I'm a dedicated tech enthusiast based in Bengaluru, on an exciting journey into entrepreneurship with my startup. I'm passionate about crafting remarkable software solutions and exploring the ever-evolving tech landscape.
 
 ## What I'm Up To
 
-- Building the future with BOTSO, my entrepreneurial endeavor focused on smart, efficient technology solutions.
+- Building the future, my entrepreneurial endeavor focused on smart, efficient technology solutions.
 - Exploring innovative approaches to enhance user experiences and streamline operations.
 - Collaborating with like-minded individuals to create impactful and forward-thinking projects.
 
