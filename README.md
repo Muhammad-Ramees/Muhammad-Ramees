@@ -1,32 +1,19 @@
-# Hello, I'm Muhammad Ramees! 👋
+# Hey, I'm Muhammad Ramees! 💻  
 
-I'm a dedicated tech enthusiast based in Bengaluru, on an exciting journey into entrepreneurship with my startup. I'm passionate about crafting remarkable software solutions and exploring the ever-evolving tech landscape.
+I’m a **UI/Web Designer and Developer** with experience in creating and coding user-friendly web projects.  
 
-## What I'm Up To
+## My Skills 🛠️  
 
-- Building the future, my entrepreneurial endeavor focused on smart, efficient technology solutions.
-- Exploring innovative approaches to enhance user experiences and streamline operations.
-- Collaborating with like-minded individuals to create impactful and forward-thinking projects.
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap  
+- **Frameworks**: React (basic knowledge), Flutter (basic knowledge)  
+- **Backend**: Node.js (basic knowledge)  
+- **Design**: Figma (UI/UX design)  
+- **Others**: Git, and experience with ERP/CRM systems  
 
-## Learning and Exploring
+## Portfolio 🌐  
 
-- Diving into the entrepreneurial world, seeking opportunities to innovate and create positive change.
-- Exploring the realms of user-centric design and the art of building seamless, technology-driven solutions.
+- 🌍 [muhammad-ramees.github.io](https://muhammad-ramees.github.io)  
 
-## My Tech Interests
+## GitHub Stats 👀  
 
-![Entrepreneurship](https://img.shields.io/badge/Entrepreneurship-Enthusiast-success)
-![Innovation](https://img.shields.io/badge/Innovation-Driven-blue)
-![User Experience](https://img.shields.io/badge/User%20Experience-Advocate-orange)
-![Smart Technologies](https://img.shields.io/badge/Smart%20Technologies-Passionate-red)
-
-## Let's Connect
-
-- 📧 Email: [rms.palliyal@gmail.com](mailto:rms.palliyal@gmail.com)
-- LinkedIn: [Muhammad Ramees](https://www.linkedin.com/in/muhammad-ramees/)
-- Twitter: [@ramees_palliyal](https://twitter.com/ramees_palliyal)
-
-## My GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammad-ramees&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-ramees&layout=compact&theme=vision-friendly-dark)](https://github.com/muhammad-ramees/github-readme-stats)
